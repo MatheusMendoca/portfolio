@@ -1,0 +1,24 @@
+h1 {
+
+    color: white;
+    -webkit-text-stroke: 2px rgba(4, 253, 170, 0.603);
+    font-size: 3rem;
+}
+
+h3 {
+
+    color: white;
+    -webkit-text-stroke: 2px blue;
+    font-size: 2rem;
+}
+
+.tex {
+    padding: 100px 0 0 80px;
+}
+
+.list {
+    list-style: decimal;
+    font-size: 2rem;
+    color: white;
+    -webkit-text-stroke: 1px blue;
+}

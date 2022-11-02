@@ -1,0 +1,23 @@
+.sobre {
+    padding: 150px 0 0 80px;
+    color: white;
+}
+
+.mat {
+    color: rgb(4, 253, 170);
+    font-size: 2rem;
+}
+
+h1 {
+    font-size: 3rem;
+    -webkit-text-stroke: 2px black;
+}
+
+.me {
+    font-size: 2rem;
+    -webkit-text-stroke: 2px black;
+}
+
+p {
+    font-size: 1.2rem;
+}

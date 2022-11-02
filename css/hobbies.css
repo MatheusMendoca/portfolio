@@ -1,0 +1,30 @@
+.jog {
+    display: flex;
+    padding: 30px 0 0 0;
+
+}
+
+h1 {
+    color: white;
+    padding: 90px 0 0 20px;
+    font-size: 30px;
+    -webkit-text-stroke: 1px blue;
+}
+
+h2 {
+    color: white;
+    padding: 20px 0 0 180px;
+    font-size: 25px;
+    -webkit-text-stroke: 1px blue;
+}
+
+.jogo {
+    padding: 0 0 0 30px;
+}
+
+figcaption {
+    padding: 0 0 0 35px;
+    color: white;
+    font-size: 1.5rem;
+    -webkit-text-stroke: 1px rgb(241, 16, 16);
+}
